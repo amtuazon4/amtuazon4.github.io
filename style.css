@@ -1,0 +1,69 @@
+@font-face {
+    font-family: SF-bold;
+    src: url('SFUIDisplay-Bold.ttf');
+}
+
+@font-face {
+    font-family: SF-light;
+    src: url('SFUIDisplay-Light.ttf');
+}
+
+
+#block1  {
+    background-color: #FAF9F6;
+    margin-left: 36%;
+    margin-top: 3%;
+    padding: 10px;
+
+    width: 500px;
+    height:800px;
+    align-items: center;
+    border-radius: 20px;
+
+    box-shadow: 1px 1px 10px 1px;
+}
+
+body {
+    margin: 0%;
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat center;
+    background-size: cover;
+    height: 100%;
+}
+#name {
+    text-align: center;
+    line-height: 1rem;
+}
+
+#picture {
+    height: 200px;
+    width: 200px;
+    margin-left: 30%;
+    margin-top: 5%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.super {
+    font-size: 24px;
+    font-family: 'SF-bold';
+    
+}
+
+.sub {
+    font-size: 14px;
+    font-family: 'SF-light';
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+}
+
+.ques {
+    font-family: 'SF-bold';
+}
+
+.ans {
+    font-family: 'SF-light';
+}
