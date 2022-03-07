@@ -1,5 +1,5 @@
-CMSC 100 Lab Exercise 1
+#Exercise 1: GitHub Pages
 
-Name:               Andre M. Tuazon
-Student Number:     2020-00839
-Lab Section:        UV-5L
+#Andre M. Tuazon
+#2020-00839
+#UV-5L
